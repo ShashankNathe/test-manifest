@@ -1,7 +1,7 @@
 {
-  "name": "Demo Install App",
-  "short_name": "DemoApp",
-  "description": "Demo manifest to test install button without service worker",
+  "name": "Solar Crm",
+  "short_name": "SolarCrm",
+  "description": "Solar Crm",
   "start_url": "https://solarcrm129375.fuzen.app/",
   "scope": "https://solarcrm129375.fuzen.app/",
   "display": "standalone",
